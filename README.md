@@ -30,7 +30,7 @@ By flashing this kernel, **YOU** are choosing to make these modifications. If so
 [Kernel Flasher](https://github.com/capntrips/KernelFlasher/releases)  
 
 ---
-
+1u卡尔符合斯卡哈覅欧委会覅偶尔我就佛牌；waf
 # Installation instructions: 
 
 Follow the steps for GKI:  
